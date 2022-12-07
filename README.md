@@ -389,10 +389,7 @@ The `recognizer.predict ()`, will take as a parameter a captured portion of the 
 ## Conclusion:
 > I hope this project can help others find their way into the exciting world of IoT!
 
-For more projects, follow me on github [Kunal Yelne](https://github.com/kunalyelne):+1:  
+
 Thankyou :heart:
 
-## Credits
-[Kunal Yelne](https://github.com/kunalyelne)  
-3rd Year,CSE Department.  
-[Indian Institute of Information Technology Nagpur.](https://github.com/iiit-nagpur)
+
